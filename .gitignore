@@ -1,0 +1,3 @@
+.vim/bundle/repos/*
+.vim/bundle/.cache/*
+.vim/bundle/cache_vi
